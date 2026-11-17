@@ -298,6 +298,25 @@
      "group": "diwali"
     },
     {
+     "title_hi": "देव दीवाली",
+     "title_en": "Dev Diwali",
+     "desc_hi": "त्रिपुरासुर का वध, कार्तिक पूर्णिमा और वाराणसी के घाटों के दीप — देवताओं की दीवाली।",
+     "desc_en": "The slaying of Tripurasura, Kartik Purnima, and the lamps of Varanasi's ghats — the gods' Diwali.",
+     "meta_hi": "14 पृष्ठ · प्रकाशित 16 नवंबर 2026 · संस्करण 1",
+     "meta_en": "14 pages · Published 16 Nov 2026 · Version 1",
+     "pdf": "books/dev-diwali-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-16",
+     "sha256": "14b969bf16310dc9c35d975e2729dc44b4e868b11785cdf86d4bf17a26cd981f",
+     "reflowable": "reflowable/dev-diwali.html",
+     "reflowable_sha256": "f6984739c39b3e305e60fc845395b61486fa94497d8f1ffdf4849b153c940614",
+     "reflowable_en": "reflowable-en/dev-diwali.html",
+     "reflowable_en_sha256": "299e2d8980657ae161e201a1b67657083353d31553680043bd19f59c700387ea",
+     "painting": "images/paintings/dev-diwali.jpg",
+     "group": "diwali"
+    },
+    {
      "title_hi": "छठ पूजा — डूबते सूरज को धन्यवाद",
      "title_en": "Chhath Puja — Thank You to the Setting Sun",
      "desc_hi": "डूबते सूरज को अर्घ्य, चार दिन का व्रत, और घाट पर सूप उठाए व्रती।",
@@ -340,6 +359,49 @@
      "title_en": "Diwali"
     }
    }
+  },
+  {
+   "id": "temple-stories",
+   "title_hi": "मंदिरों की कथाएँ",
+   "title_en": "Temple Stories",
+   "books": [
+    {
+     "title_hi": "पुरी के जगन्नाथ",
+     "title_en": "Jagannath of Puri",
+     "desc_hi": "नीलमाधव की खोज, दारु ब्रह्म, बूढ़ा बढ़ई और अधूरे विग्रह — पुरी के जगन्नाथ की उत्पत्ति की कथा।",
+     "desc_en": "The search for Nilamadhava, the divine log, the old carpenter and the unfinished forms — how Jagannath came to Puri.",
+     "meta_hi": "14 पृष्ठ · प्रकाशित 16 नवंबर 2026 · संस्करण 1",
+     "meta_en": "14 pages · Published 16 Nov 2026 · Version 1",
+     "pdf": "books/jagannath-puri-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-16",
+     "sha256": "77539d7731c15107c7b49d7d78f146a298c4fdc4a21fd93c63fe7e2b6f4651a2",
+     "reflowable": "reflowable/jagannath-puri.html",
+     "reflowable_sha256": "da44800de18fca716fb97c626f44661ada519605bf743794feb8b0b16057f1c2",
+     "reflowable_en": "reflowable-en/jagannath-puri.html",
+     "reflowable_en_sha256": "f6ad1d69a4d03e4f5e8e6ec861c0c56fd886d8e33862b602ecfbe4d8e20e17ef",
+     "painting": "images/paintings/jagannath-puri.jpg"
+    },
+    {
+     "title_hi": "जगन्नाथ की परंपराएँ",
+     "title_en": "Jagannath's Living Traditions",
+     "desc_hi": "रथयात्रा, नवकलेवर, महाप्रसाद और पुरी की जीवित परंपराएँ — स्नान से लेकर ध्वज-परिवर्तन तक।",
+     "desc_en": "Rath Yatra, Nabakalebara, Mahaprasad and the living traditions of Puri — from the bath to the changing of the flag.",
+     "meta_hi": "27 पृष्ठ · प्रकाशित 16 नवंबर 2026 · संस्करण 1",
+     "meta_en": "27 pages · Published 16 Nov 2026 · Version 1",
+     "pdf": "books/jagannath-tradition-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-16",
+     "sha256": "1c3078c80764bb7f160b1e11e89d021cccad80e5dd181d6189bd04a8017d70dd",
+     "reflowable": "reflowable/jagannath-tradition.html",
+     "reflowable_sha256": "fef19150457f7b771ed4dc427d564da0ed5c5680f846b39ee8f7f9c7987e4f9a",
+     "reflowable_en": "reflowable-en/jagannath-tradition.html",
+     "reflowable_en_sha256": "86dbd55f4dbb657eeb197a8b208dd0c9f08dea899181504c9b6fc246f9c3070a",
+     "painting": "images/paintings/jagannath-tradition.jpg"
+    }
+   ]
   },
   {
    "id": "durga",
