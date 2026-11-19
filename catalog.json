@@ -400,6 +400,24 @@
      "reflowable_en": "reflowable-en/jagannath-tradition.html",
      "reflowable_en_sha256": "86dbd55f4dbb657eeb197a8b208dd0c9f08dea899181504c9b6fc246f9c3070a",
      "painting": "images/paintings/jagannath-tradition.jpg"
+    },
+    {
+     "title_hi": "जगन्नाथ मंदिर के सात चमत्कार",
+     "title_en": "The Seven Wonders of the Jagannath Temple",
+     "desc_hi": "पुरी के मंदिर के सात चमत्कार — हवा के खिलाफ उड़ता झंडा, हर किसी की ओर देखता चक्र, बिना छाया का शिखर, खाली आकाश, सिंहद्वार पर रुकती समुद्र की आवाज़, उल्टी रसोई और कभी न खत्म होने वाला प्रसाद। मंदिर की अपनी कहानी, जाँची हुई बातों के साथ।",
+     "desc_en": "The seven wonders of the Puri temple — the flag that flies against the wind, the wheel that faces every viewer, the tower with no shadow, the empty sky, the sea's sound stopping at the Lion Gate, the kitchen where the top pot cooks first, and the prasad that never runs out. The temple's own telling, with what is checked set alongside.",
+     "meta_hi": "17 पृष्ठ · प्रकाशित 18 नवंबर 2026 · संस्करण 1",
+     "meta_en": "17 pages · Published 18 Nov 2026 · Version 1",
+     "pdf": "books/jagannath-chamatkar-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-18",
+     "sha256": "c5a42b7d60b0484c292964a75fbbbe6aba571e7e25d16f63dcc75cc10a1d59b3",
+     "reflowable": "reflowable/jagannath-chamatkar.html",
+     "reflowable_sha256": "fdc4187494c68f39d111ccb11f5b3a3189aa7f1d2d487659bc57c2bebd69e409",
+     "reflowable_en": "reflowable-en/jagannath-chamatkar.html",
+     "reflowable_en_sha256": "edbf0f2273c52f7db4bf233bf85b5bbe4c7171b4b11ff97190343b3e0dce7aff",
+     "painting": "images/paintings/jagannath-chamatkar.jpg"
     }
    ]
   },
