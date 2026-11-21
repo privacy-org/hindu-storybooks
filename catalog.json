@@ -418,6 +418,24 @@
      "reflowable_en": "reflowable-en/jagannath-chamatkar.html",
      "reflowable_en_sha256": "edbf0f2273c52f7db4bf233bf85b5bbe4c7171b4b11ff97190343b3e0dce7aff",
      "painting": "images/paintings/jagannath-chamatkar.jpg"
+    },
+    {
+     "title_hi": "सबरीमला के अय्यप्पा",
+     "title_en": "Ayyappa of Sabarimala",
+     "desc_hi": "सबरीमला के अय्यप्पा — हरिहरपुत्र की कथा: महिषी का वध, पंपा नदी का बच्चा, बाघिन का दूध, अठारह पवित्र सीढ़ियाँ, इकतालीस दिन का व्रत और मकर ज्योति। केरल की अपनी कहानी, जाँची हुई बातों के साथ।",
+     "desc_en": "Ayyappa of Sabarimala — the Hariharaputra: the slaying of Mahishi, the child of the Pamba, the tigress's milk, the eighteen sacred steps, the forty-one-day vratham, and the Makara Jyothi. Kerala's own telling, with what is checked set alongside.",
+     "meta_hi": "16 पृष्ठ · प्रकाशित 21 नवंबर 2026 · संस्करण 1",
+     "meta_en": "16 pages · Published 21 Nov 2026 · Version 1",
+     "pdf": "books/sabarimala-ayyappa-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-21",
+     "sha256": "d00357ae73c4f536fcc09420ad1d1a27ebb57a0c0221cd19be00a5a124c2a5a5",
+     "reflowable": "reflowable/sabarimala-ayyappa.html",
+     "reflowable_sha256": "c6f1cf3d62b857c10c9efb291d1e115391effb3d9007f58175af714a4ca359b7",
+     "reflowable_en": "reflowable-en/sabarimala-ayyappa.html",
+     "reflowable_en_sha256": "a527e31bc293409ac9eb0a597a02a0475074b251b4f47491361ee4bc680fe299",
+     "painting": "images/paintings/sabarimala-ayyappa.jpg"
     }
    ]
   },
