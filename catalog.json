@@ -436,6 +436,24 @@
      "reflowable_en": "reflowable-en/sabarimala-ayyappa.html",
      "reflowable_en_sha256": "a527e31bc293409ac9eb0a597a02a0475074b251b4f47491361ee4bc680fe299",
      "painting": "images/paintings/sabarimala-ayyappa.jpg"
+    },
+    {
+     "title_hi": "सती और इक्यावन शक्तिपीठ",
+     "title_en": "Sati and the Fifty-One Shaktipeethas",
+     "desc_hi": "सती और इक्यावन शक्तिपीठ — दक्ष के यज्ञ से हिमालय की गोद तक: सती और शिव, दक्ष की नफरत की जड़ें, यज्ञ, देह-त्याग, तांडव, सुदर्शन चक्र, और देवी के इक्यावन आसनों की कथा।",
+     "desc_en": "Sati and the Fifty-One Shaktipeethas — from Daksha's sacrifice to the lap of the Himalaya: Sati and Shiva, the roots of Daksha's hatred, the sacrifice, the giving up of the body, the tandava, the Sudarshana chakra, and the story of the Goddess's fifty-one seats.",
+     "meta_hi": "21 पृष्ठ · प्रकाशित 21 नवंबर 2026 · संस्करण 1",
+     "meta_en": "21 pages · Published 21 Nov 2026 · Version 1",
+     "pdf": "books/shaktipeeth-origin-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-21",
+     "sha256": "62c963d10319db6311ae08fc1a3a477d6e6bdfcfe4bf65a5e44f4d2a556b343c",
+     "reflowable": "reflowable/shaktipeeth-origin.html",
+     "reflowable_sha256": "0411fedf5608f9861f449708e93e0745c30b935ec365155d8f99d2daef4745ca",
+     "reflowable_en": "reflowable-en/shaktipeeth-origin.html",
+     "reflowable_en_sha256": "3e644ec18b13b587ba7709e4078a7d36d359a89eb6c39e3f77fffc9ba96018a6",
+     "painting": "images/paintings/shaktipeeth-origin.jpg"
     }
    ]
   },
