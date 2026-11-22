@@ -454,6 +454,24 @@
      "reflowable_en": "reflowable-en/shaktipeeth-origin.html",
      "reflowable_en_sha256": "3e644ec18b13b587ba7709e4078a7d36d359a89eb6c39e3f77fffc9ba96018a6",
      "painting": "images/paintings/shaktipeeth-origin.jpg"
+    },
+    {
+     "title_hi": "पंढरपुर के विट्ठल",
+     "title_en": "Vitthala of Pandharpur",
+     "desc_hi": "पंढरपुर के विट्ठल — पुंडलिक की भक्ति और ईंट पर खड़े भगवान की कथा: पुंडलिक की सेवा, ईंट पर खड़े कृष्ण, रखुमाई, भीमा नदी के किनारे का मंदिर, वारी और संतों की कथा।",
+     "desc_en": "Vitthala of Pandharpur — Pundalik's devotion and the Lord who stands on a brick: Pundalik's service, Krishna standing on the brick, Rakhumai, the temple on the Bhima, the Wari and the saints.",
+     "meta_hi": "15 पृष्ठ · प्रकाशित 22 नवंबर 2026 · संस्करण 1",
+     "meta_en": "15 pages · Published 22 Nov 2026 · Version 1",
+     "pdf": "books/vitthala-pandharpur-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-22",
+     "sha256": "4f42b0cfb27b42bbc2ad0f9828317eea795f131c4e2d2611dd042c00f1528d21",
+     "reflowable": "reflowable/vitthala-pandharpur.html",
+     "reflowable_sha256": "9d560477a109de5c3bb3ddfac792bbda07934fc35603f8a483fec6fbfa255c36",
+     "reflowable_en": "reflowable-en/vitthala-pandharpur.html",
+     "reflowable_en_sha256": "2605ce97dd14948d337964b29fc543946d0d727964fb7b5d1d52c17168838828",
+     "painting": "images/paintings/vitthala-pandharpur.jpg"
     }
    ]
   },
