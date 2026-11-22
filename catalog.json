@@ -491,6 +491,24 @@
      "reflowable_en": "reflowable-en/vitthala-pandharpur.html",
      "reflowable_en_sha256": "2605ce97dd14948d337964b29fc543946d0d727964fb7b5d1d52c17168838828",
      "painting": "images/paintings/vitthala-pandharpur.jpg"
+    },
+    {
+     "title_hi": "तिरुपति के वेंकटेश्वर",
+     "title_en": "Venkateswara of Tirupati",
+     "desc_hi": "तिरुपति के वेंकटेश्वर — श्रीनिवास और पद्मावती की कथा: सप्तगिरि के स्वामी, उनका मंदिर, और लाखों भक्तों की यात्रा।",
+     "desc_en": "Venkateswara of Tirupati — the story of Srinivasa and Padmavati: the Lord of the Seven Hills, his temple, and the pilgrimage of millions.",
+     "meta_hi": "15 पृष्ठ · प्रकाशित 22 नवंबर 2026 · संस्करण 1",
+     "meta_en": "15 pages · Published 22 Nov 2026 · Version 1",
+     "pdf": "books/tirupati-venkateswara-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-22",
+     "sha256": "6f53bb64b3d34a0b45f052c16d5b585bd0662e7b6250773c7cae2c6c9b475ab6",
+     "reflowable": "reflowable/tirupati-venkateswara.html",
+     "reflowable_sha256": "91424cd55da92ff83c9ee3bf7c650b23e74d651d8ca5fc2246d335657024b243",
+     "reflowable_en": "reflowable-en/tirupati-venkateswara.html",
+     "reflowable_en_sha256": "97d5d622f2f59f09ff8e829b2a52f86530edc7c0fd8e2ca22cc6b935f4cb84b6",
+     "painting": "images/paintings/tirupati-venkateswara.jpg"
     }
    ]
   },
