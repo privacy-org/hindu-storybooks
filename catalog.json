@@ -298,6 +298,25 @@
      "group": "diwali"
     },
     {
+     "title_hi": "तुलसी विवाह",
+     "title_en": "Tulsi Vivah",
+     "desc_hi": "तुलसी विवाह — वृंदा और जालंधर, विष्णु का जागना, और कार्तिक में तुलसी-शालिग्राम का विवाह: घर-घर मनाए जाने वाले त्योहार की कथा और विधि।",
+     "desc_en": "Tulsi Vivah — Vrinda and Jalandhar, the waking of Vishnu, and the wedding of Tulsi and Shaligram in Kartik: the story of the festival kept in home after home, and how it is kept.",
+     "meta_hi": "17 पृष्ठ · प्रकाशित 22 नवंबर 2026 · संस्करण 1",
+     "meta_en": "17 pages · Published 22 Nov 2026 · Version 1",
+     "pdf": "books/tulsi-vivah-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-22",
+     "sha256": "c157b511568647f37a0fe96bce02fee8912eb66c117f898d9d37345808032771",
+     "reflowable": "reflowable/tulsi-vivah.html",
+     "reflowable_sha256": "af58cc4644b984c6ad45ac817101d6123b74a73c86d58d2cd08b059225c58b51",
+     "reflowable_en": "reflowable-en/tulsi-vivah.html",
+     "reflowable_en_sha256": "1b1ae400edab9aaba8783e3d83cfcc7a431ea8d93e7727e179f474c624c67f55",
+     "painting": "images/paintings/tulsi-vivah.jpg",
+     "group": "diwali"
+    },
+    {
      "title_hi": "देव दीवाली",
      "title_en": "Dev Diwali",
      "desc_hi": "त्रिपुरासुर का वध, कार्तिक पूर्णिमा और वाराणसी के घाटों के दीप — देवताओं की दीवाली।",
