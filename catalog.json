@@ -1976,6 +1976,25 @@
      "reflowable_en_sha256": "56cfeb6208f70f218e081867612e42fcd5a3c44c9b4a2586e222c5ba638451d0",
      "painting": "images/paintings/ramayana-rakshasa-origin.jpg",
      "group": "uttara"
+    },
+    {
+     "title_hi": "सहस्र-रावण",
+     "title_en": "Sahasra Ravana",
+     "desc_hi": "सहस्र-रावण — सीता महाकाली बनकर लड़ीं, हज़ार सिरों वाले रावण से: अद्भुत रामायण की कथा — पुष्कर का युद्ध, राम का मूर्च्छित होना, महाकाली का रूप, और सहस्र नाम।",
+     "desc_en": "Sahasra Ravana — Sita becomes Mahakali and faces the thousand-headed Ravana: the Adbhuta Ramayana's telling — the battle at Pushkara, Rama falling, Mahakali's form, and the thousand names.",
+     "meta_hi": "12 पृष्ठ · प्रकाशित 22 नवंबर 2026 · संस्करण 1",
+     "meta_en": "12 pages · Published 22 Nov 2026 · Version 1",
+     "pdf": "books/ramayana-sahasra-ravana-everyday-hindi.pdf",
+     "status": "published",
+     "version": "1",
+     "published": "2026-11-22",
+     "sha256": "0c7c35e7e1cf0845fd720ab1fb5617a207230a453195d07a51d8847e8fed1794",
+     "reflowable": "reflowable/ramayana-sahasra-ravana.html",
+     "reflowable_sha256": "50305f9aa28cf8661bfa970029b99e9db766c2a2f4b72a95ff853ed68fce00d2",
+     "reflowable_en": "reflowable-en/ramayana-sahasra-ravana.html",
+     "reflowable_en_sha256": "513daf397a8fd5531dc2ab91f44306f678ce8cc4da7cf724aac3847a6220254d",
+     "painting": "images/paintings/ramayana-sahasra-ravana.jpg",
+     "group": "retellings"
     }
    ],
    "groups": {
